@@ -1,0 +1,7 @@
+{
+  "name": "PolicyGuard AI",
+  "description": "HMX3001 – AI Cloud Threat Hunting System. Advanced image authenticity verification and security suite.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
